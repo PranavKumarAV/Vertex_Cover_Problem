@@ -28,11 +28,3 @@ The project is organized into four main folders, representing different stages o
 
 ## Installation and Usage
 Please refer to the respective folders for detailed instructions on building and running each component of the project.
-
-## Future Plans
-Continuously evaluate and improve algorithm performance.
-Enhance user interface and visualization capabilities.
-Explore additional optimization techniques and algorithmic approaches.
-
-## Git Repository
-The project repository is available [here](https://github.com/Giridharan-Sankaran/Vertex_Cover_Problem/), where you can explore each component and its evolution from assignment to final project.
