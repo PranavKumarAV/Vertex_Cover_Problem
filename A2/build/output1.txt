@@ -1,0 +1,33 @@
+2-6-10
+Error: Path doesn't exist
+Error: Path doesn't exist
+15
+Error: Path doesn't exist
+2
+5-6-10
+5-6-10
+2-6-10
+Error: Path doesn't exist
+Error: Path doesn't exist
+15
+Error: Path doesn't exist
+2
+Error: Incorrect Vertices
+Error: Incorrect Vertices
+Error: Incorrect Vertices
+Error: Incorrect Vertices
+15
+Error: Incorrect Vertices
+Error: Incorrect Vertices
+Error: Incorrect Vertices
+2-6-10-15
+Error: Vertices should be more than 1
+Error: Vertices should be more than 1
+Error: Incorrect Vertices
+Error: Incorrect Vertices
+Error: Vertices should be more than 1
+Error: Incorrect Vertices
+1
+2
+15
+Error: Path doesn't exist

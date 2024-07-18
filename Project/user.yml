@@ -1,0 +1,18 @@
+---
+# Personal information
+# Enter information for both team members
+# Leave the second entry as is if there is only one person
+# on your team
+-
+  first: Pranav Kumar
+  last: Ayee Goundar Venkatesan
+  watiam: pkayeego
+  student: 21079726
+  email: pkayeego@uwaterloo.ca
+-
+  first: Giridharan
+  last: Sankaran
+  watiam: g3sankar
+  student: 21076860
+  email: g3sankar@uwaterloo.ca
+...

@@ -1,0 +1,17 @@
+2-10
+15-20-76
+32-60-44
+Error: Incorrect Vertices
+Error: Incorrect Vertices
+69-84-70
+2-10
+15-123-76
+32-93-44
+Error: Incorrect Vertices
+105-40-28
+69-159-70
+200-100
+125-15-2
+1-2-3-4-5-6-7-8-9-10
+1-10-9-8
+1-10-9-8
